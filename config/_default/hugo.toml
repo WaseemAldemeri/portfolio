@@ -1,0 +1,9 @@
+# -- Site Configuration --
+baseURL = "https://dmeiri.dev/"
+languageCode = "en"
+title = "Waseem Al-Dmeiri"
+
+# -- Module Configuration --
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"

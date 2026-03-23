@@ -1,0 +1,12 @@
+[params]
+  displayName = "English"
+  isoCode = "en"
+  weight = 1
+  title = "Waseem Al-Dmeiri"
+  description = "Software Engineer — Portfolio & Blog"
+
+[params.author]
+  name = "Waseem Al-Dmeiri"
+  headline = "Software Engineer"
+  # image = "img/author.jpg"   # uncomment when you add a photo
+  # links = []                  # social links go here later

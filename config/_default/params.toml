@@ -1,0 +1,39 @@
+# -- Theme Parameters --
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+  layout = "profile"
+  homepageImage = "img/author.jpg"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/blog"
+  cardView = true
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showEdit = false
+  showComments = false
+
+[list]
+  showBreadcrumbs = true
+  showTableOfContents = false
+  groupByYear = true
+  cardView = true
+
+[taxonomy]
+  showTermCount = true
+
+[footer]
+  showThemeAttribution = false
