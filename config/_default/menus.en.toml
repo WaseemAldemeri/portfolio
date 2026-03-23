@@ -1,4 +1,9 @@
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
   weight = 10
@@ -11,4 +16,20 @@
 [[main]]
   name = "About"
   pageRef = "about"
+  weight = 30
+
+# -- Footer Menu --
+[[footer]]
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/waseem-al-dmeiri-b8a515315"
+  weight = 10
+
+[[footer]]
+  pre = "github"
+  url = "https://github.com/WaseemAldemeri"
+  weight = 20
+
+[[footer]]
+  pre = "email"
+  url = "mailto:waseemaldemeri@gmail.com"
   weight = 30

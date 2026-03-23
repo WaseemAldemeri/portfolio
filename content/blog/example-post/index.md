@@ -3,6 +3,7 @@ title: "Example Blog Post"
 date: 2026-03-23
 description: "A placeholder blog post — replace with your real content"
 tags: ["example"]
+featureimage: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80"
 draft: true
 ---
 

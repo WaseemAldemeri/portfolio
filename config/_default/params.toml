@@ -6,6 +6,9 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+mainSections = ["projects", "blog"]
+hotlinkFeatureImage = true
+
 [homepage]
   layout = "profile"
   homepageImage = "img/author.jpg"
@@ -31,9 +34,14 @@ enableCodeCopy = true
   showTableOfContents = false
   groupByYear = true
   cardView = true
+  showSummary = true
 
 [taxonomy]
   showTermCount = true
 
 [footer]
   showThemeAttribution = false
+  showMenu = true
+  showCopyright = true
+
+copyright = "{ year } Waseem Al-Dmeiri. All rights reserved."
