@@ -3,10 +3,17 @@
   isoCode = "en"
   weight = 1
   title = "Waseem Al-Dmeiri"
-  description = "Software Engineer — Portfolio & Blog"
+  description = "Full-stack Developer — Portfolio & Blog"
 
 [params.author]
   name = "Waseem Al-Dmeiri"
-  headline = "Software Engineer"
-  # image = "img/author.jpg"   # uncomment when you add a photo
-  # links = []                  # social links go here later
+  headline = "Full-stack Developer"
+  bio = "Self-directed Full-stack Developer with an M.D. degree. Building commercial SaaS products with C#/.NET, React/TypeScript, and modern containerized DevOps."
+  image = "img/author.jpg"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/waseem-al-dmeiri-b8a515315" },
+    { github = "https://github.com/WaseemAldemeri" },
+    { email = "mailto:waseemaldemeri@gmail.com" },
+    { phone = "tel:+962785329270" },
+    { whatsapp = "https://wa.me/962785329270" },
+  ]
