@@ -3,6 +3,21 @@ baseURL = "https://dmeiri.dev/"
 languageCode = "en"
 title = "Waseem Al-Dmeiri"
 
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[imaging]
+  anchor = "Center"
+
 # -- Module Configuration --
 [module]
   [[module.imports]]

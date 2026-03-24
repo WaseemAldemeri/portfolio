@@ -5,11 +5,16 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+enableStructuredBreadcrumbs = true
+highlightCurrentMenuArea = true
+smartTOC = true
 
 mainSections = ["projects", "blog"]
 logo = "img/logo.svg"
 disableTextInHeader = true
 hotlinkFeatureImage = true
+
+defaultSocialImage = "img/logo.svg"
 
 [homepage]
   layout = "background"
