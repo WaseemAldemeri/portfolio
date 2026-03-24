@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 38" style="height:34px;width:auto;">
+  <text
+    x="0" y="19"
+    dominant-baseline="central"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="28"
+    font-weight="700">
+    <tspan fill="currentColor">W</tspan><tspan fill="#38bdf8">.</tspan><tspan fill="currentColor">D</tspan>
+  </text>
+</svg>

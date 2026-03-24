@@ -7,11 +7,15 @@ enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["projects", "blog"]
+logo = "img/logo.svg"
+disableTextInHeader = true
 hotlinkFeatureImage = true
 
 [homepage]
-  layout = "profile"
-  homepageImage = "img/author.jpg"
+  layout = "background"
+  homepageImage = "img/bg.jpg"
+  layoutBackgroundBlur = true
+
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -38,6 +42,9 @@ hotlinkFeatureImage = true
 
 [taxonomy]
   showTermCount = true
+
+[header]
+  layout = "fixed"
 
 [footer]
   showThemeAttribution = false
