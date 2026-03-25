@@ -44,9 +44,9 @@ I am driven by a "Product First" engineering mindset, ensuring that every archit
 
 <p>During an 8-month intensive development phase, I architected and launched three distinct platforms focusing on scalability and real-time interaction:</p>
 <ul>
-  <li><strong>Strasza.com:</strong> Architected a real-time digital asset escrow platform. Developed a custom Discord Bot interface via the Discord API (WebSockets) integrated with a central web-based transactional ledger to ensure atomicity in asset exchanges.</li>
-  <li><strong>Rufus USMLE:</strong> Launched a profitable commercial SaaS question-bank for medical students. Managed the full-stack delivery from PostgreSQL schema design to production deployment and user acquisition.</li>
-  <li><strong>Studyland:</strong> Developed an open-source platform designed as an architectural showcase, implementing a clean, modular system design to handle complex study-flow state management.</li>
+  <li><strong><a href="/projects/strasza/">Strasza.com</a>:</strong> Architected a real-time digital asset escrow platform. Developed a custom Discord Bot interface via the Discord API (WebSockets) integrated with a central web-based transactional ledger to ensure atomicity in asset exchanges.</li>
+  <li><strong><a href="/projects/rufus-usmle/">Rufus USMLE</a>:</strong> Launched a profitable commercial SaaS question-bank for medical students. Managed the full-stack delivery from PostgreSQL schema design to production deployment and user acquisition.</li>
+  <li><strong><a href="/projects/studyland/">Studyland</a>:</strong> Developed an open-source platform designed as an architectural showcase, implementing a clean, modular system design to handle complex study-flow state management.</li>
 </ul>
 {{< /timelineItem >}}
 
