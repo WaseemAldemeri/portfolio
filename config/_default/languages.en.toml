@@ -3,12 +3,12 @@
   isoCode = "en"
   weight = 1
   title = "Waseem Al-Dmeiri"
-  description = "Full-stack Developer — Portfolio & Blog"
+  description = "Product Engineer — Portfolio & Blog"
 
 [params.author]
   name = "Waseem Al-Dmeiri"
-  headline = "Full-stack Developer"
-  bio = "Self-directed Full-stack Developer with an M.D. degree. Building commercial SaaS products with C#/.NET, React/TypeScript, and modern containerized DevOps."
+  headline = "Product Engineer @ WAJ"
+  bio = "Product Engineer @ WAJ"
   image = "img/author.jpg"
   links = [
     { linkedin = "https://www.linkedin.com/in/waseem-al-dmeiri-b8a515315" },
