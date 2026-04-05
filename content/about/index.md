@@ -41,11 +41,11 @@ showWordCount: false
   }
 </style>
 
-I am a **Product Engineer at WAJ**, where I build and scale high-performance applications for thousands of businesses across the MENA region.
+I'm a **Product Engineer at WAJ**, building and scaling high-performance applications for thousands of businesses across the MENA region.
 
-My approach to engineering was forged at the intersection of two intense disciplines. I spent six years balancing a medical degree at the University of Jordan with a deep-dive into software engineering; reading textbooks by night and shipping code by day. I traded a traditional CS degree for the battle scars of building scalable products for real users and a relentless focus on core systems design.
+My engineering approach was built through a period of intense discipline. While studying for my **medical degree** at the University of Jordan, I concurrently immersed myself in **software engineering**; balancing rigorous technical theory with the **hands-on** experience of **shipping production code**.
 
-Previously, I worked as an **Independent Developer**, delivering numerous commercial projects and managing the full lifecycle of software products from conception to production.
+Previously, as an Independent Developer, I owned the full lifecycle of commercial products, from architecture and design through to production and deployment.
 
 ---
 
@@ -63,7 +63,7 @@ Previously, I worked as an **Independent Developer**, delivering numerous commer
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="terminal" header="Independent Software Engineer" subheader="Self-employed · Amman, Jordan" badge="June 2025 – Feb 2026" >}}
+{{< timelineItem icon="code" header="Independent Software Engineer" subheader="Self-employed · Amman, Jordan" badge="June 2025 – Feb 2026" >}}
 
 <p>Delivered multiple full-stack commercial platforms, managing the transition from architectural design to profitable production environments:</p>
 <ul>
