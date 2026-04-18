@@ -38,8 +38,8 @@ content/
 
 layouts/             # Local overrides (higher priority than theme)
   partials/
-    footer.html      # Custom footer
-    home/profile.html # Custom homepage profile
+    footer.html           # Custom footer
+    home/background.html  # Custom homepage (background layout, layout = "background")
 
 assets/css/custom.css  # Custom CSS (create if needed)
 static/                # Static files (fonts, favicon, etc.)
@@ -335,7 +335,7 @@ graph TD
 
 Override by creating matching file in `layouts/partials/`. Currently overridden:
 - `layouts/partials/footer.html` ← custom footer
-- `layouts/partials/home/profile.html` ← custom homepage
+- `layouts/partials/home/background.html` ← custom homepage (active layout)
 
 **Available override targets:**
 

@@ -130,9 +130,9 @@
 {{ if $blogPages }}
 <section class="mt-16">
   <h2 class="text-2xl font-extrabold mb-10">Blog</h2>
-  <section class="w-full space-y-8">
+  <section class="w-full">
     {{ range first 6 $blogPages }}
-      {{ partial "article-link/simple.html" . }}
+      <div class="py-4">{{ partial "article-link/simple.html" . }}</div>
     {{ end }}
   </section>
   <div class="mt-10 flex justify-center">
